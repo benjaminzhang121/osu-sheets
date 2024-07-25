@@ -20,4 +20,3 @@ A simple sheet used to generate a Jeopardy style mappool.
 Offers features such as:
 - supports up to 5 categories with 4 maps each
 - ability to "reveal" each map
-- 
