@@ -6,18 +6,18 @@
 * [osu!Mappool Jeopardy](#osu!Mappool-jeopardy)
 
 ## Tournament History Sheet
-A simple sheet to keep track of your osu! tournament history.
+A comprehensive sheet to effectively track osu! tournament history.
 [Link](https://docs.google.com/spreadsheets/d/1hlngeWJaxbcC499_V0Yo2mcit6aaMAGq7Vcnq0dc4Lk/edit?usp=sharing) to sheet.
-Offers features such as: 
-- cover sheet: displays username, rank, level, and other statistics
-- main sheet: displays tournament name, team name, up to 8 teammates, final placement, match links, and notes
-- extra statistics sheet: displays teammates in order of appearance as well as number of finishes
-- availability sheet: displays schedule in UTC and includes a simple timezone conversion calculator
+Features include:
+- Cover Sheet: Presents essential player details such as username, rank, and level, along with relevant statistics for quick reference.
+- Main Sheet: Logs tournament names, team names, up to 8 teammates, final placements, match links, and additional notes for detailed tournament tracking.
+- Extra Statistics Sheet: Organizes teammates based on their appearance order and summarizes their number of finishes for in-depth performance analysis.
+- Availability Sheet: Provides a schedule in UTC with an integrated timezone conversion calculator to streamline event planning across different time zones.
 
 ## osu!Mappool Jeopardy
-A simple sheet used to generate a Jeopardy style mappool.
+An interactive sheet for generating Jeopardy-style mappools. 
 [Link](https://docs.google.com/spreadsheets/d/1hGT_5y0W6SdcH4t9iBavzwZrwJbxLfXwEhxvzkKSg6o/edit?usp=sharing) to sheet.
-Offers features such as:
-- supports up to 5 categories with 4 maps each
-- ability to "reveal" each map
-- keeps track of teams, winnings, and money left
+Features include:
+- Category and Map Organization: Supports up to 5 categories, each with 4 maps, allowing for customizable and engaging mappool creation.
+- Map Reveal Function: Enables the "reveal" of each map for dynamic gameplay preparation.
+- Team and Financial Tracking: Monitors team details, winnings, and remaining budget, facilitating organized management of competition resources.
