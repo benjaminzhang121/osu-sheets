@@ -3,7 +3,7 @@
 
 ## Contents
 * [Tournament History Sheet](#tournament-history-sheet)
-* [osu!Mappool Jeopardy](#osu!mappool-jeopardy)
+* [Mappool Jeopardy](#osu!mappool-jeopardy)
 
 ## Tournament History Sheet
 A comprehensive sheet to effectively track osu! tournament history.
@@ -15,7 +15,7 @@ Features include:
 - Extra Statistics Sheet: Organizes teammates based on their appearance order and summarizes their number of finishes for in-depth performance analysis.
 - Availability Sheet: Provides a schedule in UTC with an integrated timezone conversion calculator to streamline event planning across different time zones.
 
-## osu!Mappool Jeopardy
+## Mappool Jeopardy
 An interactive sheet for generating Jeopardy-style mappools. 
 [Link](https://docs.google.com/spreadsheets/d/1hGT_5y0W6SdcH4t9iBavzwZrwJbxLfXwEhxvzkKSg6o/edit?usp=sharing) to sheet.
 
