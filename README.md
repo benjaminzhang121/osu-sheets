@@ -3,7 +3,7 @@
 
 ## Contents
 * [Tournament History Sheet](#tournament-history-sheet)
-* [Mappool Jeopardy](#osu!mappool-jeopardy)
+* [Mappool Jeopardy](#mappool-jeopardy)
 
 ## Tournament History Sheet
 A comprehensive sheet to effectively track osu! tournament history.
