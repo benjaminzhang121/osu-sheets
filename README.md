@@ -5,6 +5,9 @@
 * [Tournament History Sheet](#tournament-history-sheet)
 * [Mappool Jeopardy](#mappool-jeopardy)
 
+## WIP/In Development
+* Team Sheet + Score Comparisons
+
 ## Tournament History Sheet
 A comprehensive sheet to effectively track osu! tournament history.
 [Link](https://docs.google.com/spreadsheets/d/1hlngeWJaxbcC499_V0Yo2mcit6aaMAGq7Vcnq0dc4Lk/edit?usp=sharing) to sheet.
