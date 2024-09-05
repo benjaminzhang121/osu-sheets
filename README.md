@@ -13,7 +13,7 @@ Features include:
 - Cover Sheet: Presents essential player details such as username, rank, and level, along with relevant statistics for quick reference.
 - Main Sheet: Logs tournament names, team names, up to 8 teammates, final placements, match links, and additional notes for detailed tournament tracking.
 - Extra Statistics Sheet: Organizes teammates based on their appearance order and summarizes their number of finishes for in-depth performance analysis.
-- Availability Sheet: Provides a schedule in UTC with an integrated timezone conversion calculator to streamline event planning across different time zones.
+- Availability Sheet: Provides a schedule in UTC with an integrated timezone conversion calculator to conveniently plan matches across different time zones.
 
 ## Mappool Jeopardy
 An interactive sheet for generating Jeopardy-style mappools. 
@@ -22,4 +22,4 @@ An interactive sheet for generating Jeopardy-style mappools.
 Features include:
 - Category and Map Organization: Supports up to 5 categories, each with 4 maps, allowing for customizable and engaging mappool creation.
 - Map Reveal Function: Enables the "reveal" of each map for dynamic gameplay preparation.
-- Team and Financial Tracking: Monitors team details, winnings, and remaining budget, facilitating organized management of competition resources.
+- Team and Point Tracking: Keeps track and updates total team points as well as points remaining.
