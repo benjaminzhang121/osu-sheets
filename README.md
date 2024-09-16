@@ -4,6 +4,7 @@
 ## Contents
 * [Tournament History Sheet](#tournament-history-sheet)
 * [Mappool Jeopardy](#mappool-jeopardy)
+* [Team Sheet](#team-sheet)
 
 ## WIP/In Development
 * Team Sheet + Score Comparisons
@@ -25,4 +26,12 @@ An interactive sheet for generating Jeopardy-style mappools.
 Features include:
 - Category and Map Organization: Supports up to 5 categories, each with 4 maps, allowing for customizable and engaging mappool creation.
 - Map Reveal Function: Enables the "reveal" of each map for dynamic gameplay preparation.
-- Team and Point Tracking: Keeps track and updates total team points as well as points remaining.
+- Dynamic Point System: Keeps track and updates total team points as well as points remaining.
+
+## Team Sheet
+A simplified sheet for recording scores in osu! Tournaments
+[Link](https://docs.google.com/spreadsheets/d/1vzSjWqhTdbK6lYKRpp9YcYNJK7x77R0MDeNG5AykGt8/edit?usp=sharing) to sheet.
+
+Features include:
+- Team Sheet: Create team sheets for each round, minimizing the need for unnecessary tabs and allowing for dynamic team sizes.
+- Comparison Sheet: Automatically retrieve team and opponent scores from selected stages for quick and efficient comparisons.
