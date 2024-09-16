@@ -7,7 +7,7 @@
 * [Team Sheet](#team-sheet)
 
 ## WIP/In Development
-* Team Sheet + Score Comparisons
+* Team Sheet + Score Comparisons (mostly finished)
 
 ## Tournament History Sheet
 A comprehensive sheet to effectively track osu! tournament history.
