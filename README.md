@@ -29,7 +29,7 @@ Features include:
 - Dynamic Point System: Keeps track and updates total team points as well as points remaining.
 
 ## Team Sheet
-A simplified sheet for recording scores in osu! Tournaments
+A simplified sheet for recording scores in osu! Tournaments.
 [Link](https://docs.google.com/spreadsheets/d/1vzSjWqhTdbK6lYKRpp9YcYNJK7x77R0MDeNG5AykGt8/edit?usp=sharing) to sheet.
 
 Features include:
